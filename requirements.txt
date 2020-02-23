@@ -2,7 +2,7 @@ numpy==1.16.4
 Flask==1.1.1
 werkzeug==0.16.1
 simplegeneric==0.8.1
-tensorflow==1.14.0
+tensorflow==1.15.2
 keras==2.2.4
-gunicorn==19.0.0
+gunicorn==19.5.0
 Pillow==5.4.1
