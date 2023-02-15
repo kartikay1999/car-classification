@@ -1,6 +1,6 @@
 numpy==1.16.4
 Flask==1.1.1
-werkzeug==0.16.1
+werkzeug==2.2.3
 simplegeneric==0.8.1
 tensorflow==1.15.2
 keras==2.2.4
